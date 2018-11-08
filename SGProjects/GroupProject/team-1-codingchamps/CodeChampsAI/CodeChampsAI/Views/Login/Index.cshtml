@@ -1,0 +1,57 @@
+﻿@model CodeChampsAI.Models.LoginViewModel
+@{
+    ViewBag.Title = "Login";
+}
+
+<div class="row">
+    <div class="col-xs-offset-2 col-xs-6">
+        <section id="loginForm">
+            @using (Html.BeginForm("Index", "Login", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+            {
+                @Html.AntiForgeryToken()
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                if (Model.SignupSuccess)
+                {
+                    <p class="text-success">Successfully Signed Up</p>
+                }
+                <div class="form-group">
+                    @Html.LabelFor(m => m.Username, new { @class = "col-lg-2 control-label" })
+                    <div class="col-lg-10">
+                        @Html.TextBoxFor(m => m.Username, new { @class = "form-control", placeholder = "Username" })
+                        @Html.ValidationMessageFor(m => m.Username, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    @Html.LabelFor(m => m.Password, new { @class = "col-lg-2 control-label" })
+                    <div class="col-lg-10">
+                        @Html.PasswordFor(m => m.Password, new { @class = "form-control", placeholder = "Password" })
+                        @Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-lg-offset-2 col-lg-10">
+                        <div class="checkbox-inline">
+                            @Html.CheckBoxFor(m => m.RememberMe, new { @class = "checkbox" })
+                            @Html.LabelFor(m => m.RememberMe, new { @class = "" })
+                        </div>
+                   </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-sm-offset-2 col-sm-10">
+                        <input type="submit" value="Sign In" class="btn btn-primary" />
+                    </div>
+                </div>
+
+                <div class="col-sm-offset-2 col-sm-10">
+                    <p>Not a member?</p>
+                    <p>@Html.ActionLink("Signup for an account!", "Index", "Signup", new { }, new { })</p>
+                </div>
+
+                <div class="col-sm-offset-2 col-sm-10">
+                    <p>Forgot your password?</p>
+                    <p>@Html.ActionLink("Reset password", "ForgotPassword", "Account", new { }, new { })</p>
+                </div>
+            }
+        </section>
+    </div>
+</div>

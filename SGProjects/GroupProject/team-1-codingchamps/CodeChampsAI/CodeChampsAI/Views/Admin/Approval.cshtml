@@ -1,0 +1,35 @@
+﻿@model IEnumerable<CodeChampsAI.Models.Post>
+@{
+    ViewBag.Title = "Posts Pending Approval";
+}
+
+<h2>Posts</h2>
+@using (Html.BeginForm())
+{
+	<div class="form-group">
+		<table class="table table-bordered table-striped table-responsive">
+			<tr>
+				<th>Title</th>
+				<th>Date</th>
+                <th>Username</th>
+                <th></th>
+			</tr>
+			@foreach (var post in Model)
+			{
+				<tr>
+					<td>@post.Subject</td>
+					<td>@post.Date</td>
+					<td>@post.User.UserName</td>
+					<td style="text-align: right">
+                    @if (User.IsInRole("Admin"))
+                    {
+                        <input type="button" value="Approve" class="btn btn-success" onclick="@("window.location.href='" + @Url.Action("ApprovePost", "Admin", new { id = post.PostId }) + "'");" />
+                        <input type="button" value="Reject" class="btn btn-danger" onclick="@("window.location.href='" + @Url.Action("RejectPost", "Admin", new { id = post.PostId }) + "'");" />
+                    }
+                    <input type="button" value="Edit" class="btn btn-primary" onclick="@("window.location.href='" + @Url.Action("PostEdit", "Admin", new { postId = post.PostId }) + "'");" />
+                    <input type="button" value="Delete" class="btn btn-danger" onclick="@("window.location.href='" + @Url.Action("PostDelete", "Admin", new { post.PostId }) + "'");" /></td>
+				</tr>
+			}
+		</table>
+	</div>
+}

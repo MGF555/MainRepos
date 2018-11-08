@@ -1,0 +1,75 @@
+﻿@using Microsoft.AspNet.Identity
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - AI Blog</title>
+    <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <script src="~/Scripts/modernizr-2.8.3.js"></script>
+</head>
+<body>
+    <div class="container">
+        @using (Html.BeginForm("LogOff", "Login", FormMethod.Post, new { id = "logoutForm" }))
+        {
+            @Html.AntiForgeryToken()
+        }
+        <p class="text-left">
+            @Html.ActionLink("AI Blog", "Index", "Home", new { }, new { })
+            <span style="float: right">
+                @if (Request.IsAuthenticated)
+                {<a href="javascript:document.getElementById('logoutForm').submit()">Log off</a> }
+                else
+                { @Html.ActionLink("Sign-in/Register", "Index", "Login", new { }, new { })}
+            </span>
+        </p>
+
+        <div class="container navbar navbar-default">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li>@Html.ActionLink("Posts", "PostView", "Admin", new { }, new { })</li>
+                        <li>@Html.ActionLink("New Post", "NewPost", "Admin", new { }, new { })</li>
+                        @if (User.IsInRole("Admin"))
+                        {
+                            <li>@Html.ActionLink("Pages", "Pages", "Admin", new {  }, new { })</li>
+                            <li>@Html.ActionLink("New Page", "NewPage", "Admin", new {  }, new { })</li>
+                        }
+                        <li>@Html.ActionLink("Posts to Approve", "Approval", "Admin", new {  }, new { })</li>
+                        <li>@Html.ActionLink("Rejected Posts", "Rejected", "Admin", new {  }, new { })</li>
+                        @if (User.IsInRole("Admin"))
+                        {
+                            <li>@Html.ActionLink("Users", "Users", "Admin", new { }, new { })</li>
+                        }
+                        <li>@Html.ActionLink("Change Password", "ChangePassword", "Admin", new { }, new { })</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <!--Body of page-->
+        <div class="">
+            @RenderBody()
+        </div>
+    </div>
+
+    <div class="container">
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - AI Blog Space</p>
+        </footer>
+    </div>
+
+    <script src="~/Scripts/jquery-3.1.1.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="~/Scripts/Site.js"></script>
+</body>
+</html>

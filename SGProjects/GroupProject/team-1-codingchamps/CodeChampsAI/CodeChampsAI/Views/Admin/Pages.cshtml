@@ -1,0 +1,21 @@
+﻿@model IEnumerable<CodeChampsAI.Models.StaticPage>
+
+@{
+    ViewBag.Title = "Pages";
+}
+
+<div class="col-sm-10 col-md-8 col-lg-7">
+    <h2>Static Pages</h2>
+    <table class="table table-bordered table-responsive table-striped">
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.LinkName</td>
+                <td>@item.Subject</td>
+                <td>@Html.Raw(item.Body.Substring(0, item.Body.Length < 500 ? item.Body.Length : 500))</td>
+                <td>@Html.ActionLink("Edit/Delete", "PageEdit", "Admin", new { pageId = item.StaticPageId }, new { @class = "btn btn-primary" })</td>
+            </tr>
+        }
+    </table>
+</div>
+

@@ -1,0 +1,34 @@
+﻿@model IEnumerable<CodeChampsAI.Models.Post>
+
+@{
+    ViewBag.Title = "Rejected";
+}
+
+<h2>Rejected</h2>
+
+@using (Html.BeginForm())
+{
+    <div class="form-group">
+        <table class="table table-bordered table-striped table-responsive">
+            <tr>
+                <th>Subject</th>
+                <th>Date</th>
+                <th>Username</th>
+                <th></th>
+            </tr>
+            @foreach (var post in Model)
+            {
+                <tr>
+                    <td>@post.Subject</td>
+                    <td>@post.Date</td>
+                    <td>@post.User.UserName</td>
+                    <td>
+                        @Html.ActionLink("Edit", "PostEdit", "Admin", new { post.PostId }, new { @class = "btn btn-primary" })
+                        @Html.ActionLink("Delete", "PostDelete", "Admin", new { post.PostId }, new { @class = "btn btn-danger" })
+                    </td>
+                </tr>
+            }
+        </table>
+    </div>
+}
+

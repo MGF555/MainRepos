@@ -1,0 +1,25 @@
+﻿@model CodeChampsAI.Models.StaticPage
+@{
+    ViewBag.Title = "PageNew";
+}
+
+<h2>PageNew</h2>
+
+<div class="container">
+    <form method="post">
+        <div class="form-group">
+            @Html.HiddenFor(m => m.StaticPageId)
+            @Html.TextBoxFor(m => m.LinkName, new { @class = "form-control", placeholder = "LinkName", required = "required"})
+            @Html.TextBoxFor(m => m.Subject, new { @class = "form-control", placeholder = "Subject", required = "required" })
+
+
+            @Html.TextAreaFor(m => m.Body)
+
+            <button type="submit" name="editedPage" class="btn btn-primary">Save</button>
+            <input type="button" value="Cancel" class="btn btn-primary" onclick="@("window.location.href='" + @Url.Action("PageRedirect", "Admin") + "'");" />
+        </div>
+    </form>
+
+</div>
+<script src="~/Scripts/tinymce/tinymce.min.js"></script>
+<script>tinymce.init({ forced_root_block: "", selector: 'textarea' });</script>

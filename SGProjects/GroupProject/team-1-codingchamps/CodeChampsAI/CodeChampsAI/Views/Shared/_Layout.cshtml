@@ -1,0 +1,58 @@
+﻿@using Microsoft.AspNet.Identity
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - AI Blog</title>
+    <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <script src="~/Scripts/modernizr-2.8.3.js"></script>
+</head>
+<body>
+    <div class="container">
+        @using (Html.BeginForm("LogOff", "Login", FormMethod.Post, new { id = "logoutForm" }))
+            {
+            @Html.AntiForgeryToken()
+        }
+        <p class="text-right">
+
+
+            @if (Request.IsAuthenticated)
+            {
+                if (User.IsInRole("User"))
+                {<a href="javascript:document.getElementById('logoutForm').submit()">Log off</a>}
+                else
+                {@Html.ActionLink("Dashboard", "PostView", "Admin", new { }, new { })}
+            }
+            else
+            { @Html.ActionLink("Sign-in/Register", "Index", "Login", new { }, new { })}
+        </p>
+
+        <div class="jumbotron">
+            <h1>Bacon Blog</h1>
+            <p>Formerly: AI Blog Space</p>
+        </div>
+
+        <!--Nav Bar-->
+        @{
+            Html.RenderAction("Sidebar", "Home", new { });
+        }
+
+        <!--Body of page-->
+        <div class="col-xs-9">
+            @RenderBody()
+        </div>
+    </div>
+
+    <div class="container">
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - AI Blog Space</p>
+        </footer>
+    </div>
+    <script src="~/Scripts/jquery-3.1.1.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+
+</body>
+</html>

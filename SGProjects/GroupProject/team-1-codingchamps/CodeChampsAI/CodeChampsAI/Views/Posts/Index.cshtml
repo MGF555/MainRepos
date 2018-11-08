@@ -1,0 +1,48 @@
+﻿@model CodeChampsAI.Models.PostsPageViewModel
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="form-group">
+        @if (Model.Posts.Count() <= 0)
+        {    
+                <p><strong>Error:  No results found</strong></p>
+        }
+        else
+        {
+            foreach (var item in Model.Posts)
+            {
+                <div class="">
+                    <h2>@Html.ActionLink(item.Subject, "View", "Posts", new { id = item.PostId }, new { })</h2>
+                    <h4>@item.Date by @item.User.FirstName @item.User.LastName</h4>
+                    <p>@if (item.Body.Length < 2000)
+                        {
+                            @Html.Raw(item.Body);
+                        }
+                        else
+                        {
+                            @Html.Raw(item.Body.Substring(0, 2000));
+                            <a href=""></a>
+                            <span>.....</span>
+                        }
+                    </p>
+                    <p>
+                        @foreach (var tag in item.Tags.Take(5))
+                        {
+                            @Html.ActionLink("#" + tag.TagName + " ", "Tag", "Posts", new { id = tag.TagId }, new { })
+                        }
+                    </p>
+                </div>
+            }
+        }
+
+    @if (Model.PageNumber > 1)
+    {
+        @Html.ActionLink("Previous", "Index", new { id = Model.PageNumber - 1 }, new { @class = "btn btn-primary" })
+    }
+    @if (Model.PageNumber < Model.MaxPages)
+    {
+        @Html.ActionLink("Next", "Index", new { id = Model.PageNumber + 1 }, new { @class = "btn btn-primary" })
+    }
+</div>

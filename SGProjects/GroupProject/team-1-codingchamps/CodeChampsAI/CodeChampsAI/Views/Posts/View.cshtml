@@ -1,0 +1,22 @@
+﻿@model CodeChampsAI.Models.Post
+
+@{
+    ViewBag.Title = "PostView";
+}
+
+<div class="form-group">
+    <h2>@Model.Subject</h2>
+    <h4>@Model.Date by @Model.User.FirstName @Model.User.LastName</h4>
+    <hr />
+    @Html.Raw(Model.Body)
+</div>
+
+    <table class="table table-bordered table-striped table-responsive">
+        <tr>
+            @foreach (var tag in Model.Tags)
+            {
+                @Html.ActionLink("#" + tag.TagName + " ", "Tag", "Posts", new { id = tag.TagId }, new { })
+            }
+        </tr>
+    </table>
+</div>

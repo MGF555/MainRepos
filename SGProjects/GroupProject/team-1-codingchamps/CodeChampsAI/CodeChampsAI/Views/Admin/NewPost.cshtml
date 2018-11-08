@@ -1,0 +1,35 @@
+﻿@model CodeChampsAI.Models.NewPostViewModel
+@{
+    ViewBag.Title = "NewPost";
+}
+
+<h2>NewPost</h2>
+<div class="container">
+	<form method="post">
+		<div class="form-group">
+			@Html.HiddenFor(m => m.PostId)
+			@Html.LabelFor(m => m.Subject)
+			@Html.TextBoxFor(m => m.Subject, new { @class = "form-control" })
+
+
+
+			<p>
+				@Html.TextAreaFor(m => m.Body)
+			</p>
+			<p>
+				@Html.Label("ListOfTags", "Tags")
+				@Html.TextBoxFor(m => m.ListOfTags, new { @class = "form-control" })
+			</p>
+			<p>
+				<button type="submit" name="editedPost" class="btn btn-primary">Save</button>
+                <input type="button" value="Cancel" class="btn btn-primary" onclick="@("window.location.href='" + @Url.Action("PostView", "Admin") + "'");" />
+			</p>
+		</div>
+	</form>
+
+</div>
+<script src="~/Scripts/tinymce/tinymce.min.js"></script>
+<script>tinymce.init({ forced_root_block: "", selector: 'textarea' });</script>
+
+
+

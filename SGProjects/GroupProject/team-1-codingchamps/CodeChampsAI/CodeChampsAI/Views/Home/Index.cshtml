@@ -1,0 +1,32 @@
+﻿@model List<CodeChampsAI.Models.Post>
+@{
+    ViewBag.Title = "Index";
+}
+
+@foreach (var item in Model)
+{
+
+        <div class="">
+            <h2>@Html.ActionLink(item.Subject, "View", "Posts", new { id = item.PostId }, new { })</h2>
+            <h4>@item.Date.ToShortDateString() by @item.User.FirstName @item.User.LastName</h4>
+            <p>
+                @if (item.Body.Length < 2000)
+                {
+                @Html.Raw(item.Body);
+                }
+                else
+                {
+                @Html.Raw(item.Body.Substring(0, 2000));
+                <a href=""></a>
+                <span>.....</span>
+                }
+            </p>
+            <p>
+                @foreach (var tag in item.Tags.Take(5))
+                {
+                    @Html.ActionLink("#" + tag.TagName + " ", "Tag", "Posts", new { id = tag.TagId }, new { })
+                }
+            </p>
+        </div>
+
+}

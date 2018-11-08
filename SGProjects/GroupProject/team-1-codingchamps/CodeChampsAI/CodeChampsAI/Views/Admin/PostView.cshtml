@@ -1,0 +1,59 @@
+﻿@model CodeChampsAI.Models.PostsPageViewModel
+
+@{
+    ViewBag.Title = "PostView";
+}
+
+<h2>Posts</h2>
+@using (Html.BeginForm())
+{
+	<div class="form-group">
+		<table class="table table-bordered table-striped table-responsive">
+			<tr>
+				<th>Subject</th>
+				<th>Date</th>
+				<th>Username</th>
+				<th></th>
+                @if (User.IsInRole("Admin"))
+                {
+                    <th style="text-align: center">Featured Post?</th>
+                }
+			</tr>
+			@foreach (var post in Model.Posts)
+			{
+				<tr>
+					<td>@post.Subject</td>
+					<td>@post.Date</td>
+					<td>@post.User.UserName</td>
+                    <td style="text-align: right">
+                    <input type="button" value="Edit" class="btn btn-primary" onclick="@("window.location.href='" + @Url.Action("PostEdit", "Admin", new { postId = post.PostId }) + "'");" />
+                    <input type="button" value="Delete" class="btn btn-danger" onclick="@("window.location.href='" + @Url.Action("PostDelete", "Admin", new { post.PostId }) + "'");" />
+                    </td>
+                @if (User.IsInRole("Admin"))
+                    {
+                        <td style="text-align: center">	
+                            @if (post.IsFeatured)
+                        {
+                            <input type="button" value="Remove" class="btn btn-danger" onclick="@("window.location.href='" + @Url.Action("ToggleFeatured", "Admin", new { id = post.PostId }) + "'");" />
+                        }
+                        else
+                        {
+                            <input type="button" value="Approve" class="btn btn-success" onclick="@("window.location.href='" + @Url.Action("ToggleFeatured", "Admin", new { id = post.PostId }) + "'");" />
+                        }
+                    </td>
+                    }
+
+				</tr>
+			}
+		</table>
+        @if (Model.PageNumber > 1)
+        {
+            @Html.ActionLink("Previous", "PostView", new { id = Model.PageNumber - 1 }, new { @class = "btn btn-primary" })
+        }
+        @if (Model.PageNumber < Model.MaxPages)
+        {
+            @Html.ActionLink("Next", "PostView", new { id = Model.PageNumber + 1 }, new { @class = "btn btn-primary" })
+        }
+	</div>
+}
+
