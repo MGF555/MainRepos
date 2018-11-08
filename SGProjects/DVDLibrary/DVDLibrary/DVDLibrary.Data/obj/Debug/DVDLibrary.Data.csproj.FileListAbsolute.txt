@@ -31,3 +31,16 @@ C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibr
 C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary.Data\obj\Debug\DvdLibrary.Data.csprojResolveAssemblyReference.cache
 C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary.Data\obj\Debug\DVDLibrary.Data.dll
 C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary.Data\obj\Debug\DVDLibrary.Data.pdb
+C:\Users\MichaelF\Desktop\MainRepos\SGProjects\DVDLibrary\DVDLibrary\DVDLibrary.Data\bin\Debug\DVDLibrary.Data.dll.config
+C:\Users\MichaelF\Desktop\MainRepos\SGProjects\DVDLibrary\DVDLibrary\DVDLibrary.Data\bin\Debug\DVDLibrary.Data.dll
+C:\Users\MichaelF\Desktop\MainRepos\SGProjects\DVDLibrary\DVDLibrary\DVDLibrary.Data\bin\Debug\DVDLibrary.Data.pdb
+C:\Users\MichaelF\Desktop\MainRepos\SGProjects\DVDLibrary\DVDLibrary\DVDLibrary.Data\bin\Debug\DVDLibrary.Models.dll
+C:\Users\MichaelF\Desktop\MainRepos\SGProjects\DVDLibrary\DVDLibrary\DVDLibrary.Data\bin\Debug\EntityFramework.dll
+C:\Users\MichaelF\Desktop\MainRepos\SGProjects\DVDLibrary\DVDLibrary\DVDLibrary.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MichaelF\Desktop\MainRepos\SGProjects\DVDLibrary\DVDLibrary\DVDLibrary.Data\bin\Debug\DVDLibrary.Models.pdb
+C:\Users\MichaelF\Desktop\MainRepos\SGProjects\DVDLibrary\DVDLibrary\DVDLibrary.Data\bin\Debug\DVDLibrary.Models.dll.config
+C:\Users\MichaelF\Desktop\MainRepos\SGProjects\DVDLibrary\DVDLibrary\DVDLibrary.Data\bin\Debug\EntityFramework.xml
+C:\Users\MichaelF\Desktop\MainRepos\SGProjects\DVDLibrary\DVDLibrary\DVDLibrary.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MichaelF\Desktop\MainRepos\SGProjects\DVDLibrary\DVDLibrary\DVDLibrary.Data\obj\Debug\DvdLibrary.Data.csprojResolveAssemblyReference.cache
+C:\Users\MichaelF\Desktop\MainRepos\SGProjects\DVDLibrary\DVDLibrary\DVDLibrary.Data\obj\Debug\DVDLibrary.Data.dll
+C:\Users\MichaelF\Desktop\MainRepos\SGProjects\DVDLibrary\DVDLibrary\DVDLibrary.Data\obj\Debug\DVDLibrary.Data.pdb

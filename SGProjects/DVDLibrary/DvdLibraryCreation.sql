@@ -42,7 +42,7 @@ CREATE TABLE Dvds(
 	DvdId INT IDENTITY(1,1) PRIMARY KEY NOT NULL,
 	Title nvarchar(30) NOT NULL,
 	ReleaseYear INT NOT NULL,
-	DirectorId INT FOREIGN KEY REFERENCES Director(DirectorId) NOT NULL,
-	RatingId INT FOREIGN KEY REFERENCES Rating(RatingId),
+	DirectorId INT FOREIGN KEY REFERENCES Directors(DirectorId) NOT NULL,
+	RatingId INT FOREIGN KEY REFERENCES Ratings(RatingId),
 	Notes nvarchar(50)
 )
