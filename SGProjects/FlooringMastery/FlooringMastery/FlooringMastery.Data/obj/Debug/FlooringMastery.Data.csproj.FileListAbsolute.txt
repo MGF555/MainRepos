@@ -1,0 +1,7 @@
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\FlooringMastery\FlooringMastery\FlooringMastery.Data\bin\Debug\FlooringMastery.Data.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\FlooringMastery\FlooringMastery\FlooringMastery.Data\bin\Debug\FlooringMastery.Data.pdb
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\FlooringMastery\FlooringMastery\FlooringMastery.Data\obj\Debug\FlooringMastery.Data.csprojResolveAssemblyReference.cache
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\FlooringMastery\FlooringMastery\FlooringMastery.Data\obj\Debug\FlooringMastery.Data.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\FlooringMastery\FlooringMastery\FlooringMastery.Data\obj\Debug\FlooringMastery.Data.pdb
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\FlooringMastery\FlooringMastery\FlooringMastery.Data\bin\Debug\FlooringMastery.Models.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\FlooringMastery\FlooringMastery\FlooringMastery.Data\bin\Debug\FlooringMastery.Models.pdb

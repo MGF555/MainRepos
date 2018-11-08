@@ -1,0 +1,24 @@
+﻿@model Exercises.Models.Data.Course
+
+@{
+    ViewBag.Title = "AddCourse";
+}
+
+<div class="row">
+    <div class="col-xs-12">
+        <h3>Add Major</h3>
+        @Html.ActionLink("Return to List", "Courses", "Admin")
+    </div>
+</div>
+<div class="row">
+    <div class="col-xs-12">
+        @using (Html.BeginForm())
+        {
+            <div class="form-group">
+                <label>Major</label>
+                @Html.TextBoxFor(m => m.CourseName, new { @class = "form-control", placeholder = "Course" })
+            </div>
+            <button type="submit" class="btn btn-sm btn-primary">Save</button>
+        }
+    </div>
+</div>

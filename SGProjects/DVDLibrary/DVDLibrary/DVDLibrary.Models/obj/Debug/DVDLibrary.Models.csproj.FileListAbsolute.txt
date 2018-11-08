@@ -1,0 +1,29 @@
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary.Models\bin\Debug\DVDLibrary.Models.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary.Models\bin\Debug\DVDLibrary.Models.pdb
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary.Models\obj\Debug\DVDLibrary.Models.csprojResolveAssemblyReference.cache
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary.Models\obj\Debug\DVDLibrary.Models.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary.Models\obj\Debug\DVDLibrary.Models.pdb
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary.Models\bin\Debug\DVDLibrary.Models.dll.config
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary.Models\bin\Debug\DVDLibrary.Models.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary.Models\bin\Debug\DVDLibrary.Models.pdb
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary.Models\bin\Debug\EntityFramework.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary.Models\bin\Debug\EntityFramework.xml
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary.Models\obj\Debug\DvdLibrary.Models.csprojResolveAssemblyReference.cache
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary.Models\obj\Debug\DVDLibrary.Models.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary.Models\obj\Debug\DVDLibrary.Models.pdb
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary.Models\obj\Debug\DVDLibrary.Models.Migrations.init.resources
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary.Models\obj\Debug\DvdLibrary.Models.csproj.GenerateResource.Cache
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary.Models\bin\Debug\DVDLibrary.Models.dll.config
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary.Models\bin\Debug\DVDLibrary.Models.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary.Models\bin\Debug\DVDLibrary.Models.pdb
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary.Models\bin\Debug\EntityFramework.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary.Models\bin\Debug\EntityFramework.xml
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary.Models\obj\Debug\DVDLibrary.Models.Migrations.init.resources
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary.Models\obj\Debug\DvdLibrary.Models.csproj.GenerateResource.Cache
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary.Models\obj\Debug\DVDLibrary.Models.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary.Models\obj\Debug\DVDLibrary.Models.pdb
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary.Models\obj\Debug\DvdLibrary.Models.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+﻿OrderDate,OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+01/01/17,1,Wise,OH,6.25,Wood,100.00,5.15,4.75,515.00,475.00,61.88,1051.88
+01/01/17,2,Fish,OH,6.25,Wood,100.00,5.15,4.75,515.00,475.00,61.88,1051.88
+01/02/17,3,Fishy,OH,6.25,Wood,100.00,5.15,4.75,515.00,475.00,61.88,1051.88

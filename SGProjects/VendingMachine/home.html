@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Vending Machine</title>
+        <!-- Bootstrap core CSS -->
+        <link href="css/bootstrap.css" rel="stylesheet">
+		<link href="css/home.css" rel="stylesheet">
+    </head>
+	<body>
+		<div class="container">
+			<h1><center>Vending Machine<center></h1>
+			<hr/>
+			<ul class="list-group" id="errorMessages"></ul>
+			<div class="row">
+				<div class="col-xs-8">
+					<table id="listProducts">
+						<tr>
+							<td id="product1" onclick=GetItemNumber(this.id)></td>
+							<td id="product2" onclick=GetItemNumber(this.id)></td>
+							<td id="product3" onclick=GetItemNumber(this.id)></td>
+						</tr>
+						<tr>
+							<td id="product4" onclick=GetItemNumber(this.id)></td>
+							<td id="product5" onclick=GetItemNumber(this.id)></td>
+							<td id="product6" onclick=GetItemNumber(this.id)></td>
+						</tr>
+						<tr>
+							<td id="product7" onclick=GetItemNumber(this.id)></td>
+							<td id="product8" onclick=GetItemNumber(this.id)></td>
+							<td id="product9" onclick=GetItemNumber(this.id)></td>
+						</tr>						
+					</table>
+				</div>
+				<div class="col-xs-4">
+					<div id="displayMoney" align="center">
+						<h2>Total $ In</h2>
+						<br>
+						<input type="text" 
+								name="displayAmountEntered" 
+								readonly="readonly" 
+								style="text-align:center;"
+								id="moneyEntered" />
+					</div>
+					<div class="form-group">
+						<div class="col-md-offset-2 col-md-4">
+							<button type="button"
+									id="add-dollar-button"
+									class="btn btn-default">
+								Add Dollar
+							</button>
+						</div>
+						<div class="col-md-4">
+							<button type="button"
+									id="add-quarter-button"
+									class="btn btn-default">
+								Add Quarter
+							</button>
+						</div>
+						<div class="col-md-offset-2 col-md-4">
+							<button type="button"
+									id="add-dime-button"
+									class="btn btn-default">
+								Add Dime
+							</button>
+						</div>
+						<div class="col-md-4">
+							<button type="button"
+									id="add-nickel-button"
+									class="btn btn-default">
+								Add Nickel
+							</button>
+						</div>						
+					</div>
+					<div id="userSelection" align="center">
+					<br>
+					<br>
+						<hr/>
+						<h2>Messages</h2>
+						<input type="text" id="displayResponse" name="displayResponse" readonly="readonly" text-align="center"/>
+						<br>
+						Item:
+						<input type="text" id="selectItem" name="itemSelection" readonly="readonly" text-align="center"/>
+						<br>
+						<button type="button"
+								id="submit-request-button"
+								class="btn btn-default">
+							Make Purchase
+						</button>
+					</div>
+					<hr/>
+					<div id="change" align="center">
+						<h2>Change</h2>
+						<div id="displayChange">
+						</div>
+					</div>
+				</div>
+						
+			</div>
+	
+	    <script src="js/jquery-2.2.4.min.js"></script>
+        <script src="js/bootstrap.js"></script>
+        <script src="js/home.js"></script>
+    </body>
+</html>

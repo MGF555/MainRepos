@@ -1,0 +1,6 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Michael,OH,0,Carpet,125,2.25,2.10,281.25,262.50,33.98,577.73
+3,Fishy,OH,0,Wood,125,5.15,4.75,643.75,593.75,77.34,1314.84
+4,Nada,OH,0,Tile,250,3.50,4.15,875.00,1037.50,119.53,2032.03
+6,Joe,OH,0,Tile,120,3.50,4.15,420.00,498.00,57.38,975.38
+7,.,OH,0,Carpet,100,2.25,2.10,225.00,210.00,27.19,462.19

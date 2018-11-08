@@ -1,0 +1,307 @@
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\ApplicationInsights.config
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\roslyn\csc.exe
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\roslyn\csc.exe.config
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\roslyn\csc.rsp
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\roslyn\csi.exe
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\roslyn\csi.exe.config
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\roslyn\csi.rsp
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\roslyn\Microsoft.Win32.Primitives.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\roslyn\System.AppContext.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\roslyn\System.Collections.Immutable.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\roslyn\System.Console.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\roslyn\System.Diagnostics.Process.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\roslyn\System.IO.Compression.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\roslyn\System.IO.FileSystem.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\roslyn\System.IO.Pipes.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\roslyn\System.Security.AccessControl.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\roslyn\System.Security.Claims.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\roslyn\System.Threading.Thread.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\roslyn\System.ValueTuple.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\roslyn\System.Xml.XPath.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\roslyn\vbc.exe
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\roslyn\vbc.exe.config
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\roslyn\vbc.rsp
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\roslyn\VBCSCompiler.exe
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\roslyn\VBCSCompiler.exe.config
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\DVDLibrary.dll.config
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\DVDLibrary.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\DVDLibrary.pdb
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\Antlr3.Runtime.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\EntityFramework.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\EntityFramework.SqlServer.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\Microsoft.AI.Web.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\Microsoft.AI.WindowsServer.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\Microsoft.ApplicationInsights.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\Microsoft.Web.Infrastructure.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\Newtonsoft.Json.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\System.Diagnostics.DiagnosticSource.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\System.Web.Helpers.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\System.Web.Mvc.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\System.Web.Optimization.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\System.Web.Razor.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\System.Web.WebPages.Deployment.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\System.Web.WebPages.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\System.Web.WebPages.Razor.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\WebGrease.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\Antlr3.Runtime.pdb
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\EntityFramework.xml
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\EntityFramework.SqlServer.xml
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\Microsoft.AI.Web.xml
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\Microsoft.AI.WindowsServer.xml
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\Microsoft.ApplicationInsights.xml
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\Newtonsoft.Json.xml
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\System.Diagnostics.DiagnosticSource.xml
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\System.Web.Helpers.xml
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\System.Web.Mvc.xml
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\System.Web.Optimization.xml
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\System.Web.Razor.xml
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\System.Web.WebPages.xml
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\System.Web.WebPages.Deployment.xml
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\System.Web.WebPages.Razor.xml
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\obj\Debug\DVDLibrary.UI.csprojResolveAssemblyReference.cache
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\obj\Debug\DVDLibrary.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\obj\Debug\DVDLibrary.pdb
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\DVDLibrary.Data.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\DVDLibrary.Models.dll
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\DVDLibrary.Data.pdb
+c:\users\mysti\onedrive\documents\visual studio 2017\Projects\DVDLibrary\DVDLibrary\bin\DVDLibrary.Models.pdb
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\ApplicationInsights.config
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\csc.exe
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\csc.exe.config
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\csc.rsp
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\csi.exe
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\csi.exe.config
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\csi.rsp
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\System.AppContext.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\System.Console.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\System.IO.Compression.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\System.IO.Pipes.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\System.Security.Claims.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\System.Threading.Thread.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\System.ValueTuple.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\vbc.exe
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\vbc.exe.config
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\vbc.rsp
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\VBCSCompiler.exe
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\DVDLibrary.dll.config
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\DVDLibrary.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\DVDLibrary.pdb
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\Antlr3.Runtime.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\DVDLibrary.Data.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\DVDLibrary.Models.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\EntityFramework.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\EntityFramework.SqlServer.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\Microsoft.AI.Web.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\Microsoft.ApplicationInsights.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\Newtonsoft.Json.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\System.Web.Helpers.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\System.Web.Mvc.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\System.Web.Optimization.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\System.Web.Razor.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\System.Web.WebPages.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\System.Web.WebPages.Razor.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\WebGrease.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\DVDLibrary.Data.pdb
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\DVDLibrary.Models.pdb
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\DVDLibrary.Models.dll.config
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\Antlr3.Runtime.pdb
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\EntityFramework.xml
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\EntityFramework.SqlServer.xml
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\Microsoft.AI.Web.xml
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\Microsoft.ApplicationInsights.xml
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\Newtonsoft.Json.xml
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\System.Web.Helpers.xml
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\System.Web.Mvc.xml
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\System.Web.Optimization.xml
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\System.Web.Razor.xml
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\System.Web.WebPages.xml
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\System.Web.WebPages.Razor.xml
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\obj\Debug\DvdLibrary.UI.csprojResolveAssemblyReference.cache
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\obj\Debug\DVDLibrary.dll
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\obj\Debug\DVDLibrary.pdb
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\ApplicationInsights.config
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\csc.exe
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\csc.exe.config
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\csc.rsp
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\csi.exe
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\csi.exe.config
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\csi.rsp
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\System.AppContext.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\System.Console.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\System.Security.Claims.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\vbc.exe
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\vbc.exe.config
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\vbc.rsp
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\DVDLibrary.dll.config
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\DVDLibrary.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\DVDLibrary.pdb
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\Antlr3.Runtime.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\DVDLibrary.Data.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\DVDLibrary.Models.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\EntityFramework.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\EntityFramework.SqlServer.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\Microsoft.AI.Web.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\Newtonsoft.Json.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\System.Web.Helpers.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\System.Web.Mvc.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\System.Web.Optimization.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\System.Web.Razor.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\System.Web.WebPages.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\WebGrease.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\DVDLibrary.Data.pdb
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\DVDLibrary.Models.pdb
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\DVDLibrary.Models.dll.config
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\Antlr3.Runtime.pdb
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\EntityFramework.xml
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\EntityFramework.SqlServer.xml
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\Microsoft.AI.Web.xml
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\Newtonsoft.Json.xml
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\System.Web.Helpers.xml
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\System.Web.Mvc.xml
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\System.Web.Optimization.xml
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\System.Web.Razor.xml
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\System.Web.WebPages.xml
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\obj\Debug\DvdLibrary.UI.csprojResolveAssemblyReference.cache
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\obj\Debug\DVDLibrary.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\obj\Debug\DVDLibrary.pdb
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\DVDLibrary.Data.dll.config
+C:\Users\MichaelF\Desktop\ReposMain\michael-fish-individual-work\DVDLibrary\DVDLibrary\DVDLibrary\bin\DVDLibrary.Data.dll.config

@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DvdLibrary.Models", "DVDLibrary.Models\DvdLibrary.Models.csproj", "{F57796FA-6391-4607-8517-E81630BFBDB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DvdLibrary.Data", "DVDLibrary.Data\DvdLibrary.Data.csproj", "{3081F9E3-2899-41A3-B617-14D914FAEFB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DvdLibrary.Tests", "DvdLibrary.Tests\DvdLibrary.Tests.csproj", "{5C591C15-6140-4A6B-B196-E2254A11D103}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DvdLibrary.API", "DvdLibrary.API\DvdLibrary.API.csproj", "{33BFDFC5-E16E-4B52-B6DD-68DD063E20DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F57796FA-6391-4607-8517-E81630BFBDB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F57796FA-6391-4607-8517-E81630BFBDB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F57796FA-6391-4607-8517-E81630BFBDB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F57796FA-6391-4607-8517-E81630BFBDB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3081F9E3-2899-41A3-B617-14D914FAEFB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3081F9E3-2899-41A3-B617-14D914FAEFB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3081F9E3-2899-41A3-B617-14D914FAEFB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3081F9E3-2899-41A3-B617-14D914FAEFB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C591C15-6140-4A6B-B196-E2254A11D103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C591C15-6140-4A6B-B196-E2254A11D103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C591C15-6140-4A6B-B196-E2254A11D103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C591C15-6140-4A6B-B196-E2254A11D103}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33BFDFC5-E16E-4B52-B6DD-68DD063E20DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33BFDFC5-E16E-4B52-B6DD-68DD063E20DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33BFDFC5-E16E-4B52-B6DD-68DD063E20DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33BFDFC5-E16E-4B52-B6DD-68DD063E20DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

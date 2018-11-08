@@ -1,0 +1,14 @@
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\FlooringMastery\FlooringMastery\FlooringMastery.Tests\bin\Debug\FlooringMastery.Tests.dll.config
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\FlooringMastery\FlooringMastery\FlooringMastery.Tests\bin\Debug\FlooringMastery.Tests.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\FlooringMastery\FlooringMastery\FlooringMastery.Tests\bin\Debug\FlooringMastery.Tests.pdb
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\FlooringMastery\FlooringMastery\FlooringMastery.Tests\bin\Debug\FlooringMastery.BLL.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\FlooringMastery\FlooringMastery\FlooringMastery.Tests\bin\Debug\FlooringMastery.Data.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\FlooringMastery\FlooringMastery\FlooringMastery.Tests\bin\Debug\FlooringMastery.Models.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\FlooringMastery\FlooringMastery\FlooringMastery.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\FlooringMastery\FlooringMastery\FlooringMastery.Tests\bin\Debug\FlooringMastery.BLL.pdb
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\FlooringMastery\FlooringMastery\FlooringMastery.Tests\bin\Debug\FlooringMastery.Data.pdb
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\FlooringMastery\FlooringMastery\FlooringMastery.Tests\bin\Debug\FlooringMastery.Models.pdb
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\FlooringMastery\FlooringMastery\FlooringMastery.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\FlooringMastery\FlooringMastery\FlooringMastery.Tests\obj\Debug\FlooringMastery.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\FlooringMastery\FlooringMastery\FlooringMastery.Tests\obj\Debug\FlooringMastery.Tests.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\FlooringMastery\FlooringMastery\FlooringMastery.Tests\obj\Debug\FlooringMastery.Tests.pdb

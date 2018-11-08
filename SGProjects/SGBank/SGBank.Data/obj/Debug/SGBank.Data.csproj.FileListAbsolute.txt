@@ -1,0 +1,7 @@
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\SGBank\SGBank.Data\bin\Debug\SGBank.Data.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\SGBank\SGBank.Data\bin\Debug\SGBank.Data.pdb
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\SGBank\SGBank.Data\bin\Debug\SGBank.Models.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\SGBank\SGBank.Data\bin\Debug\SGBank.Models.pdb
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\SGBank\SGBank.Data\obj\Debug\SGBank.Data.csprojResolveAssemblyReference.cache
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\SGBank\SGBank.Data\obj\Debug\SGBank.Data.dll
+C:\Users\Mysti\Desktop\ReposMain\michael-fish-individual-work\SGBank\SGBank.Data\obj\Debug\SGBank.Data.pdb
